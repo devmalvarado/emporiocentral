@@ -1,0 +1,17 @@
+{
+  "name": "emporio-central-prices",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.js",
+    "init": "node --no-warnings scripts/collect.js --init-only",
+    "collect": "node --no-warnings scripts/collect.js",
+    "collect:scraped": "OFFERS_FILE=data/scraped-offers.json node --no-warnings scripts/collect.js",
+    "scrape:amazon": "node --no-warnings scripts/scrape-amazon.js",
+    "test": "node --no-warnings scripts/collect.js --self-test && node --no-warnings scripts/scrape-amazon.js --self-test && node scripts/card-dates.js --self-test && node scripts/app-self-test.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}

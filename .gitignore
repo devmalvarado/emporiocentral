@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+.chromium-home/
+data/prices.sqlite
+data/prices.sqlite-*
+data/scraped-offers.json
+logs/
+output/
+tmp/

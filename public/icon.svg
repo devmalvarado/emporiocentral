@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#063f2b"/>
+  <path d="M118 322h55c0-92 75-167 167-167v-55c-123 0-222 99-222 222Z" fill="#ff6a1a"/>
+  <path d="M118 247h55c0-51 41-92 92-92v-55c-81 0-147 66-147 147Z" fill="#ff6a1a"/>
+  <path d="M118 172h55c0-10 8-17 17-17v-55c-40 0-72 32-72 72Z" fill="#ff6a1a"/>
+  <rect x="318" y="318" width="72" height="72" rx="12" fill="#ff6a1a"/>
+  <text x="256" y="440" fill="#fff8ed" font-family="Arial, sans-serif" font-size="58" font-weight="800" text-anchor="middle">EC</text>
+</svg>

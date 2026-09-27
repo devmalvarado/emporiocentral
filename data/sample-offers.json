@@ -1,0 +1,62 @@
+[
+  {
+    "product_slug": "detergente_ropa",
+    "store": "Amazon",
+    "title": "Detergente liquido concentrado 1.8 L",
+    "price_mxn": 139,
+    "shipping_mxn": 0,
+    "reference_price_mxn": 179,
+    "unit_size": 1.8,
+    "unit": "l",
+    "availability": "in_stock",
+    "source_url": "https://example.com/detergente"
+  },
+  {
+    "product_slug": "atun",
+    "store": "Walmart",
+    "title": "Atun en agua paquete 6 x 140 g",
+    "price_mxn": 119,
+    "shipping_mxn": 35,
+    "reference_price_mxn": 149,
+    "unit_size": 0.84,
+    "unit": "kg",
+    "availability": "in_stock",
+    "source_url": "https://example.com/atun"
+  },
+  {
+    "product_slug": "papel_higienico",
+    "store": "Chedraui",
+    "title": "Papel higienico 12 rollos doble hoja",
+    "price_mxn": 96,
+    "shipping_mxn": 0,
+    "reference_price_mxn": 110,
+    "unit_size": 260,
+    "unit": "m",
+    "availability": "in_stock",
+    "source_url": "https://example.com/papel"
+  },
+  {
+    "product_slug": "galletas_marias",
+    "store": "Soriana",
+    "title": "Galletas Marias caja 12 x 170 g",
+    "price_mxn": 128,
+    "shipping_mxn": 0,
+    "reference_price_mxn": 160,
+    "unit_size": 2.04,
+    "unit": "kg",
+    "availability": "in_stock",
+    "source_url": "https://example.com/galletas"
+  },
+  {
+    "product_slug": "arroz",
+    "store": "Amazon",
+    "title": "Arroz super extra 1 kg",
+    "price_mxn": 22.9,
+    "shipping_mxn": 0,
+    "reference_price_mxn": 24.5,
+    "unit_size": 1,
+    "unit": "kg",
+    "availability": "in_stock",
+    "source_url": "https://example.com/arroz"
+  }
+]

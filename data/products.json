@@ -1,0 +1,342 @@
+[
+  {
+    "slug": "detergente_ropa",
+    "name": "Detergente ropa",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "prioridad",
+    "compare_unit": "dosis",
+    "min_discount_pct": 10,
+    "queries": ["detergente ropa concentrado", "detergente ropa 1 kg", "detergente liquido ropa 2 l"],
+    "notes": "Comparar costo por dosis/uso mas envio a Aguascalientes."
+  },
+  {
+    "slug": "suavizante",
+    "name": "Suavizante",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "prioridad",
+    "compare_unit": "l",
+    "min_discount_pct": 10,
+    "queries": ["suavizante ropa 850 ml", "suavizante ropa 1 l", "suavizante concentrado"],
+    "notes": "Preferir concentrados cuando el costo por uso baje."
+  },
+  {
+    "slug": "lavatrastes",
+    "name": "Lavatrastes",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "prioridad",
+    "compare_unit": "l",
+    "min_discount_pct": 10,
+    "queries": ["lavatrastes liquido", "jabon lavatrastes 750 ml", "lavatrastes concentrado"],
+    "notes": "Comparar presentaciones 500 ml a 2 l."
+  },
+  {
+    "slug": "limpiador_multiusos",
+    "name": "Limpiador multiusos",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "prioridad",
+    "compare_unit": "l",
+    "min_discount_pct": 10,
+    "queries": ["limpiador multiusos 1 l", "multiusos limpieza hogar"],
+    "notes": "SKU base de alta rotacion."
+  },
+  {
+    "slug": "limpiador_bano",
+    "name": "Limpiador bano",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "bajo_pedido",
+    "compare_unit": "l",
+    "min_discount_pct": 15,
+    "queries": ["limpiador bano", "limpiador sanitario"],
+    "notes": "Especializado; comprar bajo pedido."
+  },
+  {
+    "slug": "limpiador_vidrios",
+    "name": "Limpiador vidrios",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "bajo_pedido",
+    "compare_unit": "l",
+    "min_discount_pct": 15,
+    "queries": ["limpiador vidrios", "limpia vidrios"],
+    "notes": "Especializado; comprar bajo pedido."
+  },
+  {
+    "slug": "limpiador_madera",
+    "name": "Limpiador madera",
+    "category": "Limpieza de ropa y hogar",
+    "stage": "bajo_pedido",
+    "compare_unit": "l",
+    "min_discount_pct": 15,
+    "queries": ["limpiador madera", "aceite limpiador madera"],
+    "notes": "Especializado; comprar bajo pedido."
+  },
+  {
+    "slug": "atun",
+    "name": "Atun",
+    "category": "Alimentos y enlatados",
+    "stage": "prioridad",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 8,
+    "queries": ["atun en lata", "atun agua paquete", "atun aceite lata"],
+    "notes": "Revisar contenido neto vs masa drenada y flete."
+  },
+  {
+    "slug": "jalapenos",
+    "name": "Jalapenos",
+    "category": "Alimentos y enlatados",
+    "stage": "prioridad",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 10,
+    "queries": ["jalapenos en lata", "chiles jalapenos en escabeche"],
+    "notes": "Comparar drenado cuando este disponible."
+  },
+  {
+    "slug": "frijoles_enlatados",
+    "name": "Frijoles enlatados",
+    "category": "Alimentos y enlatados",
+    "stage": "prioridad",
+    "compare_unit": "kg",
+    "min_discount_pct": 8,
+    "queries": ["frijoles en lata", "frijoles bayos lata", "frijoles refritos lata"],
+    "notes": "Arranque comercial; validar margen con envio."
+  },
+  {
+    "slug": "aceite",
+    "name": "Aceite",
+    "category": "Alimentos y enlatados",
+    "stage": "prioridad",
+    "compare_unit": "l",
+    "min_discount_pct": 5,
+    "queries": ["aceite vegetal 1 litro", "aceite comestible 850 ml"],
+    "notes": "Inicial ideal; comparar litros reales."
+  },
+  {
+    "slug": "azucar",
+    "name": "Azucar",
+    "category": "Alimentos y enlatados",
+    "stage": "prioridad",
+    "compare_unit": "kg",
+    "min_discount_pct": 5,
+    "queries": ["azucar 1 kg", "azucar morena 1 kg"],
+    "notes": "Evitar endulzantes si se busca azucar real."
+  },
+  {
+    "slug": "elote",
+    "name": "Elote en lata",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 12,
+    "queries": ["elote en lata", "granos de elote lata"],
+    "notes": "Demanda mas variable; comprar con promo clara."
+  },
+  {
+    "slug": "verduras_mixtas",
+    "name": "Verduras mixtas",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 12,
+    "queries": ["verduras mixtas en lata", "ensalada de verduras lata"],
+    "notes": "Segunda etapa."
+  },
+  {
+    "slug": "sardina",
+    "name": "Sardina",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg",
+    "min_discount_pct": 12,
+    "queries": ["sardina en lata", "sardina tomate lata"],
+    "notes": "Validar demanda antes de comprar volumen."
+  },
+  {
+    "slug": "leche_evaporada",
+    "name": "Leche evaporada",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "l",
+    "min_discount_pct": 12,
+    "queries": ["leche evaporada lata", "leche evaporada paquete"],
+    "notes": "Segunda etapa."
+  },
+  {
+    "slug": "leche_condensada",
+    "name": "Leche condensada",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg",
+    "min_discount_pct": 12,
+    "queries": ["leche condensada lata", "leche condensada paquete"],
+    "notes": "Segunda etapa."
+  },
+  {
+    "slug": "chipotles",
+    "name": "Chipotles",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 12,
+    "queries": ["chipotles en lata", "chiles chipotles adobados"],
+    "notes": "Segunda etapa."
+  },
+  {
+    "slug": "frutas_almibar",
+    "name": "Frutas en almibar",
+    "category": "Alimentos y enlatados",
+    "stage": "segunda_etapa",
+    "compare_unit": "kg_drenado",
+    "min_discount_pct": 12,
+    "queries": ["frutas en almibar lata", "duraznos en almibar"],
+    "notes": "Segunda etapa; revisar caducidad."
+  },
+  {
+    "slug": "papel_higienico",
+    "name": "Papel higienico",
+    "category": "Papel e higiene del hogar",
+    "stage": "prioridad",
+    "compare_unit": "m",
+    "min_discount_pct": 8,
+    "queries": ["papel higienico paquete", "papel higienico 12 rollos"],
+    "notes": "Comparar metros, capas y envio."
+  },
+  {
+    "slug": "servilletas",
+    "name": "Servilletas",
+    "category": "Papel e higiene del hogar",
+    "stage": "prioridad",
+    "compare_unit": "pieza",
+    "min_discount_pct": 8,
+    "queries": ["servilletas paquete", "servilletas 500 piezas"],
+    "notes": "Base real de rotacion."
+  },
+  {
+    "slug": "bolsas_basura",
+    "name": "Bolsas de basura",
+    "category": "Papel e higiene del hogar",
+    "stage": "prioridad",
+    "compare_unit": "pieza",
+    "min_discount_pct": 10,
+    "queries": ["bolsas de basura", "bolsas basura jumbo"],
+    "notes": "Complementa papel e higiene."
+  },
+  {
+    "slug": "fibras",
+    "name": "Fibras",
+    "category": "Papel e higiene del hogar",
+    "stage": "prioridad",
+    "compare_unit": "pieza",
+    "min_discount_pct": 10,
+    "queries": ["fibras cocina paquete", "fibra esponja trastes"],
+    "notes": "Complemento de limpieza."
+  },
+  {
+    "slug": "esponjas",
+    "name": "Esponjas",
+    "category": "Papel e higiene del hogar",
+    "stage": "prioridad",
+    "compare_unit": "pieza",
+    "min_discount_pct": 10,
+    "queries": ["esponjas cocina paquete", "esponjas trastes"],
+    "notes": "Complemento de limpieza."
+  },
+  {
+    "slug": "galletas_marias",
+    "name": "Galletas Marias",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas marias paquete", "galletas maria caja"],
+    "notes": "Max 500 g por unidad de reventa; controlar caducidad."
+  },
+  {
+    "slug": "galletas_saladas",
+    "name": "Galletas saladas",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas saladas paquete", "galletas crackers"],
+    "notes": "Riesgo de quebraduras."
+  },
+  {
+    "slug": "galletas_sandwich",
+    "name": "Galletas sandwich",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas sandwich paquete", "galletas rellenas paquete"],
+    "notes": "Comprar solo con promo clara."
+  },
+  {
+    "slug": "galletas_chocolate",
+    "name": "Galletas chocolate",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas chocolate paquete"],
+    "notes": "Controlar caducidad."
+  },
+  {
+    "slug": "galletas_avena_integrales",
+    "name": "Galletas avena e integrales",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas avena paquete", "galletas integrales paquete"],
+    "notes": "Max 500 g por unidad."
+  },
+  {
+    "slug": "barquillos",
+    "name": "Barquillos",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["barquillos paquete", "galletas barquillo"],
+    "notes": "Riesgo de quebraduras."
+  },
+  {
+    "slug": "galletas_surtidas",
+    "name": "Galletas surtidas",
+    "category": "Galletas en promocion",
+    "stage": "tactico",
+    "compare_unit": "kg",
+    "min_discount_pct": 15,
+    "queries": ["galletas surtidas caja", "galletas surtido paquete"],
+    "notes": "Comprar por caja si las unidades sirven para venta suelta."
+  },
+  {
+    "slug": "arroz",
+    "name": "Arroz",
+    "category": "Adicionales",
+    "stage": "prioridad",
+    "compare_unit": "kg",
+    "min_discount_pct": 5,
+    "queries": ["arroz 1 kg", "arroz super extra 900 g"],
+    "notes": "Producto base."
+  },
+  {
+    "slug": "pasta",
+    "name": "Pasta",
+    "category": "Adicionales",
+    "stage": "prioridad",
+    "compare_unit": "kg",
+    "min_discount_pct": 8,
+    "queries": ["pasta 500 g", "sopa pasta paquete"],
+    "notes": "Producto base."
+  },
+  {
+    "slug": "leche_uht",
+    "name": "Leche UHT",
+    "category": "Adicionales",
+    "stage": "prioridad",
+    "compare_unit": "l",
+    "min_discount_pct": 8,
+    "queries": ["leche uht 1 litro", "leche tetrapack 1 l"],
+    "notes": "Controlar caducidad."
+  }
+]

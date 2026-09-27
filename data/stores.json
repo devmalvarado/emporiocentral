@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "kind": "marketplace",
+    "status": "active",
+    "notes": "Fuente inicial del MVP; abrir source_url al comprar."
+  },
+  {
+    "slug": "mercado_libre",
+    "name": "Mercado Libre",
+    "kind": "marketplace",
+    "status": "active",
+    "notes": "Validar vendedor, factura, envio y devoluciones."
+  },
+  {
+    "slug": "tiktok_shop",
+    "name": "TikTok Shop",
+    "kind": "marketplace",
+    "status": "active",
+    "notes": "Ofertas tacticas; validar vendedor y politicas de devolucion."
+  },
+  {
+    "slug": "google_shopping",
+    "name": "Google Shopping",
+    "kind": "aggregator",
+    "status": "watch",
+    "notes": "Agregador para descubrir ofertas; puede repetir tiendas directas, usar dedupe_key/source_url canonico."
+  },
+  {
+    "slug": "supermercados",
+    "name": "Todos los supermercados",
+    "kind": "group",
+    "status": "group",
+    "notes": "Filtro de UI; agrupa supermercados, no es una fuente scrapeable."
+  },
+  {
+    "slug": "sams",
+    "name": "Sam's Club",
+    "kind": "club",
+    "status": "active",
+    "notes": "Comparar cajas y presentaciones grandes contra capital inmovilizado."
+  },
+  {
+    "slug": "walmart",
+    "name": "Walmart",
+    "kind": "supermarket",
+    "status": "active",
+    "notes": "Supermercado prioritario."
+  },
+  {
+    "slug": "bodega_aurrera",
+    "name": "Bodega Aurrera",
+    "kind": "supermarket",
+    "status": "active",
+    "notes": "Priorizar precio bajo y disponibilidad local."
+  },
+  {
+    "slug": "comercial_mexicana",
+    "name": "Comercial Mexicana / La Comer",
+    "kind": "supermarket",
+    "status": "active",
+    "notes": "Usar la fuente vigente equivalente cuando aplique."
+  },
+  {
+    "slug": "soriana",
+    "name": "Soriana",
+    "kind": "supermarket",
+    "status": "active",
+    "notes": "Supermercado prioritario."
+  },
+  {
+    "slug": "chedraui",
+    "name": "Chedraui",
+    "kind": "supermarket",
+    "status": "active",
+    "notes": "Supermercado prioritario."
+  },
+  {
+    "slug": "costco",
+    "name": "Costco",
+    "kind": "club",
+    "status": "active",
+    "notes": "Normalizado desde Cotsco; comparar costo por unidad y membresia/envio."
+  },
+  {
+    "slug": "temu",
+    "name": "Temu",
+    "kind": "marketplace",
+    "status": "watch",
+    "notes": "Mas util para limpieza/accesorios; validar entrega y devoluciones."
+  },
+  {
+    "slug": "aliexpress",
+    "name": "AliExpress",
+    "kind": "marketplace",
+    "status": "watch",
+    "notes": "Mas util para accesorios; validar tiempos, importacion y devoluciones."
+  },
+  {
+    "slug": "mayoristas",
+    "name": "Mayoristas",
+    "kind": "group",
+    "status": "group",
+    "notes": "Filtro para fuentes mayoristas futuras."
+  }
+]

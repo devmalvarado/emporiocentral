@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "tarjeta_principal",
+    "name": "Tarjeta principal",
+    "statement_day": 15,
+    "payment_due_day": 5,
+    "notes": "Ejemplo: cambiar por los dias reales de corte y pago."
+  }
+]
